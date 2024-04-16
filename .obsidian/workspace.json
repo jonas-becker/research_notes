@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/MALLM.md",
-                "mode": "source",
+                "file": "Papers/Agents/Improving Factuality and Reasoning in Language Models through Multiagent Debate.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/MALLM.md",
+                "file": "Papers/Agents/Improving Factuality and Reasoning in Language Models through Multiagent Debate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/MALLM.md",
+                "file": "Papers/Agents/Improving Factuality and Reasoning in Language Models through Multiagent Debate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/MALLM.md"
+                "file": "Papers/Agents/Improving Factuality and Reasoning in Language Models through Multiagent Debate.md"
               }
             }
           }
@@ -148,11 +148,12 @@
   },
   "active": "8ad8d842a3bf3b29",
   "lastOpenFiles": [
+    "Papers/_figures/2023_agent_debate_example.png",
     "_templates/Paper Template.md",
     "_templates/Project Template.md",
-    "Projects/MALLM.md",
     "Papers/Agents/Improving Factuality and Reasoning in Language Models through Multiagent Debate.md",
-    "Papers/_figures/2023_agent_debate_example.png",
+    "(D) GSM8K.md",
+    "Projects/MALLM.md",
     "2024-04-16.md",
     "COPY.md",
     "Untitled 1.canvas",
