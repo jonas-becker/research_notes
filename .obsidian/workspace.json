@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6d71a8aac8a14905",
+        "id": "d1344b3444bf6158",
         "type": "tabs",
         "children": [
           {
-            "id": "86238285986664d8",
+            "id": "0300fd2bfa9f5900",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,15 +147,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "86238285986664d8",
+  "active": "0300fd2bfa9f5900",
   "lastOpenFiles": [
+    "(A) Important Author.md",
+    "Papers/Agents/Exchange-of-Thought - Enhancing Large Language Model Capabilities through Cross-Model Communication.md",
     "Papers/Agents/Improving Factuality and Reasoning in Language Models through Multiagent Debate.md",
     "Papers/Agents/Unleashing Cognitive Synergy in Large Language Models - A Task-Solving Agent through Multi-Persona Self-Collaboration.md",
     "README.md",
     "backlinks.md",
     "Projects/MALLM.md",
     "_templates/Paper Template.md",
-    "Papers/Agents/Exchange-of-Thought - Enhancing Large Language Model Capabilities through Cross-Model Communication.md",
     "_templates/Project Template.md",
     "Papers/Agents/Untitled.md",
     "Untitled.canvas",
@@ -164,7 +165,6 @@
     "Papers/_figures/2023_exchange_of_thought_paradigms.png",
     "agents.md",
     "Papers/_figures/2023_agent_debate_example.png",
-    "(A) Important Author.md",
     "(A) First Author.md",
     "(D) GSM8K.md",
     "2024-04-16.md",

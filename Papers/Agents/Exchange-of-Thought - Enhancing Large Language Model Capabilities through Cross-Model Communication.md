@@ -1,5 +1,5 @@
 - [Link](https://arxiv.org/abs/2312.01823)
-- Authors: [[(A) Zhangyue Yin]] [[(A) Important Author]] [[(A) Xipeng Qiu]]
+- Authors: [[(A) Zhangyue Yin]] [[(A) Xipeng Qiu]]
 - Topics: [[agents]] [[reasoning]] [[factuality]]
 - Venue: #arxiv
 - Year: #y2023
