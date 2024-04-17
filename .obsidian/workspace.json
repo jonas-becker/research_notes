@@ -147,11 +147,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "86238285986664d8",
+  "active": "62cc2dc8a4fe3693",
   "lastOpenFiles": [
+    "Projects/MALLM.md",
+    "Papers/Agents/Unleashing Cognitive Synergy in Large Language Models - A Task-Solving Agent through Multi-Persona Self-Collaboration.md",
     "_templates/Paper Template.md",
     "Papers/Agents/Exchange-of-Thought - Enhancing Large Language Model Capabilities through Cross-Model Communication.md",
-    "Papers/Agents/Unleashing Cognitive Synergy in Large Language Models - A Task-Solving Agent through Multi-Persona Self-Collaboration.md",
     "_templates/Project Template.md",
     "Papers/Agents/Improving Factuality and Reasoning in Language Models through Multiagent Debate.md",
     "Papers/Agents/Untitled.md",
@@ -165,7 +166,6 @@
     "(A) Important Author.md",
     "(A) First Author.md",
     "(D) GSM8K.md",
-    "Projects/MALLM.md",
     "2024-04-16.md",
     "COPY.md",
     "Untitled 1.canvas",
