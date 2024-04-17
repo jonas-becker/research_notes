@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers/Agents/Unleashing Cognitive Synergy in Large Language Models - A Task-Solving Agent through Multi-Persona Self-Collaboration.md",
+                "file": "Obsidian Note Taking.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers/Agents/Unleashing Cognitive Synergy in Large Language Models - A Task-Solving Agent through Multi-Persona Self-Collaboration.md",
+                "file": "Obsidian Note Taking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers/Agents/Unleashing Cognitive Synergy in Large Language Models - A Task-Solving Agent through Multi-Persona Self-Collaboration.md",
+                "file": "Obsidian Note Taking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers/Agents/Unleashing Cognitive Synergy in Large Language Models - A Task-Solving Agent through Multi-Persona Self-Collaboration.md"
+                "file": "Obsidian Note Taking.md"
               }
             }
           }
@@ -147,10 +147,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62cc2dc8a4fe3693",
+  "active": "86238285986664d8",
   "lastOpenFiles": [
-    "Projects/MALLM.md",
     "Papers/Agents/Unleashing Cognitive Synergy in Large Language Models - A Task-Solving Agent through Multi-Persona Self-Collaboration.md",
+    "backlinks.md",
+    "Obsidian Note Taking.md",
+    "Projects/MALLM.md",
     "_templates/Paper Template.md",
     "Papers/Agents/Exchange-of-Thought - Enhancing Large Language Model Capabilities through Cross-Model Communication.md",
     "_templates/Project Template.md",
@@ -158,7 +160,6 @@
     "Papers/Agents/Untitled.md",
     "Untitled.canvas",
     "Papers/Agents/Paper Template 1.md",
-    "Untitled.md",
     "Papers/_figures/2023_solo_performance_prompting.png",
     "Papers/_figures/2023_exchange_of_thought_paradigms.png",
     "agents.md",
