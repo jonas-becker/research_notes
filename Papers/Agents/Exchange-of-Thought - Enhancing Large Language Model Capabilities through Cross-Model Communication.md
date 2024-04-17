@@ -3,6 +3,7 @@
 - Topics: [[agents]] [[reasoning]] [[factuality]]
 - Venue: #arxiv
 - Year: #y2023
+- Read: 2024-04-17
 
 ---
 ### Major Contributions
@@ -24,11 +25,13 @@
 ### Limitations/Future Work
 
 - They only assessed reasoning tasks
+
 ---
 ### Notes (Try to use backlinks)
 
 - All paradigms outperformed [[Chain-of-Thought]], but the performance varied across tasks. There was no clear winner
 - About 3 turns were enough to lead to a good result with all paradigms
+
 ---
 ### Important Figures
 

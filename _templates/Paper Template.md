@@ -3,6 +3,7 @@
 - Topics: [[tag1]] [[tag2]]
 - Venue: #arxiv
 - Year: #y0000
+- Read: {{date}}
 
 ---
 ### Major Contributions
@@ -18,9 +19,11 @@
 ### Limitations/Future Work
 
 - 
+
 ---
 ### Notes (Try to use backlinks)
 
 - 
+
 ---
 ### Important Figures

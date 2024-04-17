@@ -3,6 +3,7 @@
 - Topics: [[agents]] [[factuality]]
 - Venue: #arxiv
 - Year: #y2023
+- Read: 2024-04-17
 
 ---
 ### Major Contributions
