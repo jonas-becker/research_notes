@@ -12,7 +12,7 @@
 - They assess 4 discussion paradigms across a few tasks
 	- Memory, Report, Relay, Debate
 - Tasks:
-	- Mathematical Reasoning: [[(D) GSM8K]] [[(D) MultiArith]] [[(D) SingleEQ]] [[AddSub]] [[(D) AQuA]] [[(D) SVAMP]]
+	- Mathematical Reasoning: [[(D) GSM8K]] [[(D) MultiArith]] [[(D) SingleEQ]] [[(D) AddSub]] [[(D) AQuA]] [[(D) SVAMP]]
 	- Commonsense Reasoning: [[(D) CommonsenseQA]] [[(D) StrategyQA]]
 	- Symbolic Reasoning: [[(D) Penguins in a Table]] [[(D) Date Understanding]]
 
