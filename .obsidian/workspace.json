@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Note Taking.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Note Taking.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Note Taking.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Note Taking.md"
+                "file": "README.md"
               }
             }
           }
@@ -147,11 +147,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "86238285986664d8",
+  "active": "62cc2dc8a4fe3693",
   "lastOpenFiles": [
     "Papers/Agents/Unleashing Cognitive Synergy in Large Language Models - A Task-Solving Agent through Multi-Persona Self-Collaboration.md",
     "backlinks.md",
-    "Obsidian Note Taking.md",
+    "README.md",
     "Projects/MALLM.md",
     "_templates/Paper Template.md",
     "Papers/Agents/Exchange-of-Thought - Enhancing Large Language Model Capabilities through Cross-Model Communication.md",
