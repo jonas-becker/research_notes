@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers/Agents/Exchange-of-Thought - Enhancing Large Language Model Capabilities through Cross-Model Communication.md",
+                "file": "Papers/Agents/Let Models Speak Ciphers - Multiagent Debate Through Embeddings.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers/Agents/Exchange-of-Thought - Enhancing Large Language Model Capabilities through Cross-Model Communication.md",
+                "file": "Papers/Agents/Let Models Speak Ciphers - Multiagent Debate Through Embeddings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers/Agents/Exchange-of-Thought - Enhancing Large Language Model Capabilities through Cross-Model Communication.md",
+                "file": "Papers/Agents/Let Models Speak Ciphers - Multiagent Debate Through Embeddings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers/Agents/Exchange-of-Thought - Enhancing Large Language Model Capabilities through Cross-Model Communication.md"
+                "file": "Papers/Agents/Let Models Speak Ciphers - Multiagent Debate Through Embeddings.md"
               }
             }
           }
@@ -149,20 +149,22 @@
   },
   "active": "0300fd2bfa9f5900",
   "lastOpenFiles": [
-    "(A) Important Author.md",
-    "Papers/Agents/Exchange-of-Thought - Enhancing Large Language Model Capabilities through Cross-Model Communication.md",
     "Papers/Agents/Improving Factuality and Reasoning in Language Models through Multiagent Debate.md",
+    "Papers/Agents/Let Models Speak Ciphers - Multiagent Debate Through Embeddings.md",
+    "Papers/_figures/2024_models_speak_ciphers.png",
+    "Papers/_figures/2023_exchange_of_thought_paradigms.png",
+    "Papers/Agents/Exchange-of-Thought - Enhancing Large Language Model Capabilities through Cross-Model Communication.md",
     "Papers/Agents/Unleashing Cognitive Synergy in Large Language Models - A Task-Solving Agent through Multi-Persona Self-Collaboration.md",
+    "(A) Last Author.md",
+    "(A) Important Author.md",
     "README.md",
     "backlinks.md",
     "Projects/MALLM.md",
     "_templates/Paper Template.md",
     "_templates/Project Template.md",
-    "Papers/Agents/Untitled.md",
     "Untitled.canvas",
     "Papers/Agents/Paper Template 1.md",
     "Papers/_figures/2023_solo_performance_prompting.png",
-    "Papers/_figures/2023_exchange_of_thought_paradigms.png",
     "agents.md",
     "Papers/_figures/2023_agent_debate_example.png",
     "(A) First Author.md",
