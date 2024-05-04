@@ -7,3 +7,5 @@
 /.obsidian
 *.json
 (A) Last Author.md
+.obsidian/workspace.json
+.obsidian/graph.json

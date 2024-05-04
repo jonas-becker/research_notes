@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d1344b3444bf6158",
+        "id": "e0392927151358db",
         "type": "tabs",
         "children": [
           {
-            "id": "0300fd2bfa9f5900",
+            "id": "8e8936c49a9179fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 487.5
+    "width": 200
   },
   "right": {
     "id": "4b5ef60f28c49d19",
@@ -147,10 +147,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0300fd2bfa9f5900",
+  "active": "8e8936c49a9179fe",
   "lastOpenFiles": [
     "Papers/Agents/Improving Factuality and Reasoning in Language Models through Multiagent Debate.md",
     "Papers/Agents/Let Models Speak Ciphers - Multiagent Debate Through Embeddings.md",
+    "(D) Professional Psychology.md",
     "Papers/_figures/2024_models_speak_ciphers.png",
     "Papers/_figures/2023_exchange_of_thought_paradigms.png",
     "Papers/Agents/Exchange-of-Thought - Enhancing Large Language Model Capabilities through Cross-Model Communication.md",

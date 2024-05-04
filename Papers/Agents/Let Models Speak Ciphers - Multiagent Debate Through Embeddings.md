@@ -27,6 +27,7 @@
 
 - Are there other more efficient ways (besides embeddings) to exchange information between agents?
 - LLM agents all need the same vocabulary set and tokenizer
+- No personas, i.e., more agents are similar to more debate rounds
 
 ---
 ### Notes (Try to use backlinks)
