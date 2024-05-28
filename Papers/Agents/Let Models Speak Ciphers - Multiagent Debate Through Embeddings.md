@@ -14,13 +14,16 @@
 		- potentially this also skips some information loss
 - 5 reasoning tasks:
 	- [[(D) GSM8K]] [[(D) High School Math]] [[(D) Formal Logic]] [[(D) Professional Psychology]] [[(D) Arithmetic]]
+- Models: [[(M) LLaMA2]] and others
 
 ---
 ### Secondary Contribution
 
 - might benefit smaller LLMs for discourse
 - more agents or rounds is benefitial (performance trade-off)
-- CIPHER benefits most when combining a low-temperature agent with a high-temperature agent
+- The order of prior rounds responses provided matters only with agents that generate with varying temperatures
+- CIPHER benefits most when combining a low-temperature agent with a high-temperature agent (and sampling the low-temperature answer as final response)
+- cipher is most helpful in uncertain situations
 
 ---
 ### Limitations/Future Work
@@ -28,13 +31,18 @@
 - Are there other more efficient ways (besides embeddings) to exchange information between agents?
 - LLM agents all need the same vocabulary set and tokenizer
 - No personas, i.e., more agents are similar to more debate rounds
+- What about other non-reasoning tasks?
 
 ---
 ### Notes (Try to use backlinks)
 
+- Natural Language Communication
+	- sample next tokens from vocabulary
+- 
 - Communication is humanly interpretable by remapping the embeddings to natural language
 
 ---
 ### Important Figures
 
 ![[2024_models_speak_ciphers.png]]
+![[2024_ciphers.png]]

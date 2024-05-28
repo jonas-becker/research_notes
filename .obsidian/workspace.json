@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e0392927151358db",
+        "id": "6e0d720075bc2cb0",
         "type": "tabs",
         "children": [
           {
-            "id": "8e8936c49a9179fe",
+            "id": "0b500ff88905a663",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers/Agents/Let Models Speak Ciphers - Multiagent Debate Through Embeddings.md",
+                "file": "Papers/Evaluation/Lessons from the Trenches on Reproducible Evaluation of Language Models.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers/Agents/Let Models Speak Ciphers - Multiagent Debate Through Embeddings.md",
+                "file": "Papers/Evaluation/Lessons from the Trenches on Reproducible Evaluation of Language Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers/Agents/Let Models Speak Ciphers - Multiagent Debate Through Embeddings.md",
+                "file": "Papers/Evaluation/Lessons from the Trenches on Reproducible Evaluation of Language Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers/Agents/Let Models Speak Ciphers - Multiagent Debate Through Embeddings.md"
+                "file": "Papers/Evaluation/Lessons from the Trenches on Reproducible Evaluation of Language Models.md"
               }
             }
           }
@@ -147,18 +147,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e8936c49a9179fe",
+  "active": "0b500ff88905a663",
   "lastOpenFiles": [
+    "tag1.md",
+    "Papers/Evaluation/Lessons from the Trenches on Reproducible Evaluation of Language Models.md",
+    "Papers/Evaluation",
+    "Papers/Agents/Personality Traits in Large Language Models.md",
+    "Papers/_figures/2023_personality_trait_markers.png",
+    "Papers/_figures/2023_personality_traits_in_llms.png",
+    "(A) Important Author.md",
+    "Papers/Agents/Unleashing Cognitive Synergy in Large Language Models - A Task-Solving Agent through Multi-Persona Self-Collaboration.md",
+    "Papers/Agents/Exchange-of-Thought - Enhancing Large Language Model Capabilities through Cross-Model Communication.md",
     "Papers/Agents/Improving Factuality and Reasoning in Language Models through Multiagent Debate.md",
+    "ADD.md",
     "Papers/Agents/Let Models Speak Ciphers - Multiagent Debate Through Embeddings.md",
+    "(M) LLaMA 1.md",
+    "Papers/_figures/2024_ciphers.png",
+    "Pasted image 20240514131510.png",
+    "README.md",
     "(D) Professional Psychology.md",
+    "(A) Last Author.md",
+    "Papers/_figures/2024_ciphers2.png",
     "Papers/_figures/2024_models_speak_ciphers.png",
     "Papers/_figures/2023_exchange_of_thought_paradigms.png",
-    "Papers/Agents/Exchange-of-Thought - Enhancing Large Language Model Capabilities through Cross-Model Communication.md",
-    "Papers/Agents/Unleashing Cognitive Synergy in Large Language Models - A Task-Solving Agent through Multi-Persona Self-Collaboration.md",
-    "(A) Last Author.md",
-    "(A) Important Author.md",
-    "README.md",
     "backlinks.md",
     "Projects/MALLM.md",
     "_templates/Paper Template.md",
@@ -177,16 +188,11 @@
     "First Author.md",
     "Papers/_figures",
     "Papers/_figures/2023_agent_CoT.png",
-    "tag1.md",
-    "Important Author.md",
     "_templates",
-    "Welcome.md",
-    "Papers/Agents.md",
     "Projects",
     "Papers/Paraphrasing",
     "Papers/Summarization",
     "Papers/Agents",
-    "Papers",
-    "create a link.md"
+    "Papers"
   ]
 }
