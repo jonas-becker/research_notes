@@ -1,11 +1,9 @@
-
+*.md
+!README.md
 .obsidian/workspace.json
 .obsidian/app.json
-(A) Important Author.md
-(A) First Author.md
 .obsidian/workspace.json
 /.obsidian
 *.json
-(A) Last Author.md
 .obsidian/workspace.json
 .obsidian/graph.json
