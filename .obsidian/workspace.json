@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "18718d62486553b7",
+        "id": "155a72a8711cc522",
         "type": "tabs",
         "children": [
           {
-            "id": "21d0e1494f4cf0e5",
+            "id": "255a393cfec73b76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers/Agents/LLM As A Mastermind - A Survey Of Strategic Reasoning With Large Language Models.md",
+                "file": "_templates/Paper Template 2.0.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers/Agents/LLM As A Mastermind - A Survey Of Strategic Reasoning With Large Language Models.md",
+                "file": "_templates/Paper Template 2.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers/Agents/LLM As A Mastermind - A Survey Of Strategic Reasoning With Large Language Models.md",
+                "file": "_templates/Paper Template 2.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers/Agents/LLM As A Mastermind - A Survey Of Strategic Reasoning With Large Language Models.md"
+                "file": "_templates/Paper Template 2.0.md"
               }
             }
           }
@@ -147,10 +147,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "21d0e1494f4cf0e5",
+  "active": "255a393cfec73b76",
   "lastOpenFiles": [
-    "(D) Professional Psychology.md",
+    "Papers/_figures/2023_exchange_of_thought_paradigms.png",
+    "_templates/Paper Template 2.0.md",
+    "_templates/Paper Template.md",
+    "_templates/Project Template.md",
     "Papers/Agents/LLM As A Mastermind - A Survey Of Strategic Reasoning With Large Language Models.md",
+    "(D) Professional Psychology.md",
     "reasoning.md",
     "Papers/_figures/2024_strategic_reasoning.png",
     "Papers/Agents/Unleashing Cognitive Synergy in Large Language Models - A Task-Solving Agent through Multi-Persona Self-Collaboration.md",
@@ -178,16 +182,11 @@
     "(A) Last Author.md",
     "Papers/_figures/2024_ciphers2.png",
     "Papers/_figures/2024_models_speak_ciphers.png",
-    "Papers/_figures/2023_exchange_of_thought_paradigms.png",
     "backlinks.md",
     "Projects/MALLM.md",
-    "_templates/Paper Template.md",
-    "_templates/Project Template.md",
     "Untitled.canvas",
     "Papers/Agents/Paper Template 1.md",
     "agents.md",
-    "(A) First Author.md",
-    "(D) GSM8K.md",
     "Untitled 1.canvas",
     "Papers/_figures",
     "_templates",
